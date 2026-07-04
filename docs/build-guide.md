@@ -24,9 +24,9 @@ Approximate cost: **~$200-250 USD per camera**
 | 12 | Connectors | JST 1.25mm 2-Pin Micro Connectors | $7 | [Amazon](https://www.amazon.com/dp/B013JRWCBU) | So it's easier to connect the USB-C port + power button during assembly. |(p)|
 | 13 | Filament | Transparent PLA Filament | $20 | [Amazon](https://www.amazon.com/dp/B08VRM8KZJ) | Good for reliable overhangs and fine details (PETG could also work but is more finicky). Translucent so status lights are visible under the board. The one used in my build is the GIANTARM Clear PLA Filament. |(p)|
 | 14 | Wrist Strap | Wrist strap | $6 | [Amazon](https://www.amazon.com/dp/B0BC8G4ZR2) | Hand strap for carrying. |(p)|
-| 15 | Putty | Sticky putty | $4 | Any brand | For holding the battery securely in place. |
+| 15 | Putty | Sticky putty | $4 | Any brand | For holding the battery securely in place. |🫡|
 | 16 | Carry Case | Optional carry case | $12 | [Amazon](https://www.amazon.com/dp/B0DBLMKYGB) | For travel protection. This size (5.5" × 3.7" × 2.8") fits the camera well. |
-| 17 | Charging Cable | USB-A to USB-C | - | - | For charging the camera. C-to-C cables might not work unless you solder some extra ports on the USB-C board. |
+| 17 | Charging Cable | USB-A to USB-C | - | - | For charging the camera. C-to-C cables might not work unless you solder some extra ports on the USB-C board. |🫡|
 
 
 ## Enclosure
@@ -67,15 +67,15 @@ Before starting assembly, make sure you have printed all the necessary enclosure
 
 ![Tools Needed](images/build-guide/002-tools.jpg)
 
-- 3D printer (or 3D printing service)
-- Soldering iron and solder
-- Small Phillips screwdriver
-- microSD card reader (for your computer)
-- A computer with [Raspberry Pi Imager](https://www.raspberrypi.com/software/) installed
-- Tweezers or pliers
-- Sticky putty (for holding the battery in place)
-- Wire stripper and cutter
-- Heatshrink tubing or electrical tape
+- 3D printer (or 3D printing service) 🫡
+- Soldering iron and solder 🫡
+- Small Phillips screwdriver 🫡
+- microSD card reader (for your computer) 🫡
+- A computer with [Raspberry Pi Imager](https://www.raspberrypi.com/software/) installed 🫡
+- Tweezers or pliers 🫡
+- Sticky putty (for holding the battery in place) 🫡
+- Wire stripper and cutter 🫡
+- Heatshrink tubing or electrical tape 🫡
 
 ## Step 1: Prepare the SD Card
 
