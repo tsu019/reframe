@@ -10,8 +10,8 @@ Approximate cost: **~$200-250 USD per camera**
 
 | # | Component | Part | ~Price | Link | Notes | Status
 |---|-----------|------|--------|------|-------|-|
-| 1 | Computer | Raspberry Pi Zero 2 WH | $20 | [PiShop.us](https://www.pishop.us/product/raspberry-pi-zero-2w-with-headers/) | WH version has pre-soldered headers for easier assembly. Non-header version works as well. |(p)|
-| 2 | Camera | Raspberry Pi Camera Module 3 | $25 | [Digi-Key](https://www.digikey.com/en/products/detail/raspberry-pi/SC1223/17278639) | Standard field-of-view model. The Camera Module 3 is recommended because the autofocus and HDR make a big difference in image quality on the ePaper display. |(p)|
+| 1 | Computer | Raspberry Pi Zero 2 WH | $20 | [PiShop.us](https://www.pishop.us/product/raspberry-pi-zero-2w-with-headers/) | WH version has pre-soldered headers for easier assembly. Non-header version works as well. |🫡|
+| 2 | Camera | Raspberry Pi Camera Module 3 | $25 | [Digi-Key](https://www.digikey.com/en/products/detail/raspberry-pi/SC1223/17278639) | Standard field-of-view model. The Camera Module 3 is recommended because the autofocus and HDR make a big difference in image quality on the ePaper display. |🫡|
 | 3 | Display | Waveshare 4" ePaper Spectra 6 (HAT+) | $50 | [Waveshare](https://www.waveshare.com/4inch-e-paper-hat-plus-e.htm?sku=27367) | Connects directly to the Pi's GPIO header — no additional wiring needed. The [driver](../waveshare_epd/) is bundled in this repo. |(p)|
 | 4 | Battery | PiSugar 3 Battery Board | $40 | [PiSugar](https://www.pisugar.com/products/pisugar-3-raspberry-pi-zero-battery) or [Amazon](https://www.amazon.com/dp/B0FB3N1YSK) | Provides power and physical button interface. This build works only with PiSugar 3 because of how it handles on-off buttons. Requires [`pisugar-server`](https://github.com/PiSugar/PiSugar/wiki/PiSugar-Power-Manager-(Software)) for monitoring; the [Software Setup](software-setup.md) guide installs it. |🫡|
 | 5 | Storage | 32 GB microSD card | $10 | Any brand, the faster, the better. | For OS and photo storage. |🫡|
